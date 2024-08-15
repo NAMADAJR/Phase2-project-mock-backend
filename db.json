@@ -2,56 +2,56 @@
   "Alumnis" : [
     {
       "id": 1,
-      "img": "public/alumnis/Josh.jpeg",
+      "img": "https://images.pexels.com/photos/26222614/pexels-photo-26222614/free-photo-of-portrait-of-smiling-man.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Joshua Nyambane",
       "job": "Software Engineer",
       "review": "Attending BaySide International High School transformed my academic journey. The diverse curriculum and supportive teachers set a strong foundation for my career in tech."
     },
     {
       "id": 2,
-      "img": "public/alumnis/Ivy.jpeg",
+      "img": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Ivy Bella",
       "job": "Graphic Designer",
       "review": "BaySide International High School nurtured my creativity and passion for design. The art programs and inspiring faculty helped me hone my skills and find my path."
     },
     {
       "id": 3,
-      "img": "public/alumnis/Kevin.jpeg",
+      "img": "https://images.pexels.com/photos/6801642/pexels-photo-6801642.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Kevin Kiptoo",
       "job": "Data Scientist",
       "review": "The rigorous academic environment at BaySide prepared me for the challenges of university and beyond. The focus on critical thinking was invaluable."
     },
     {
       "id": 4,
-      "img": "public/alumnis/Diana.jpeg",
+      "img": "https://images.pexels.com/photos/773371/pexels-photo-773371.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Diana Shauri",
       "job": "Marketing Specialist",
       "review": "BaySide fostered my interest in marketing and communication. The extracurricular activities and leadership opportunities were instrumental in shaping my career."
     },
     {
       "id": 5,
-      "img": "public/alumnis/Namada.jpeg",
+      "img": "https://images.pexels.com/photos/35065/homeless-man-color-poverty.jpg?auto=compress&cs=tinysrgb&w=600",
       "name": "Namada Jr",
       "job": "Civil Engineer",
       "review": "The strong emphasis on STEM subjects at BaySide equipped me with the technical skills I needed. The hands-on projects were particularly beneficial!"
     },
     {
       "id": 6,
-      "img": "public/alumnis/Bob.jpeg",
+      "img": "https://images.pexels.com/photos/2380795/pexels-photo-2380795.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Bob Oyier",
       "job": "Biochemist",
       "review": "BaySide's science programs ignited my passion for research. The lab facilities and mentorship from teachers were outstanding and helped me excel."
     },
     {
       "id": 7,
-      "img": "public/alumnis/Titus.jpeg",
+      "img": "https://images.pexels.com/photos/262391/pexels-photo-262391.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Titus Ouko",
       "job": "Financial Analyst",
       "review": "The economics and finance classes at BaySide were incredibly helpful. They provided me with a solid grounding in financial principles that I still use today."
     },
     {
       "id": 8,
-      "img": "public/alumnis/Fatma.jpeg",
+      "img": "https://images.pexels.com/photos/1239288/pexels-photo-1239288.jpeg?auto=compress&cs=tinysrgb&w=600",
       "name": "Fatma Omar",
       "job": "Journalist",
       "review": "BaySide's journalism program honed my writing and storytelling skills. The opportunities to report on real events were invaluable for my growth as a journalist."
